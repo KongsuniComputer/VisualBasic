@@ -1,0 +1,10 @@
+msgbox "-"
+
+text1.text="-"
+
+Shell "explorer http://www.-.com"
+
+text4 = val(text1.text) + text2 + text3.Text
+text4 = val(text1.text) - text2 - text3.Text
+text4 = val(text1.text) * text2 * text3.Text
+text4 = val(text1.text) / text2 / text3.Text
